@@ -5,6 +5,7 @@ public class SnakeGame {
 		
 		// TODO Auto-generated method stub
 		System.out.println("Committing");
+		System.out.println("Committing again");
 	}
 
 }
